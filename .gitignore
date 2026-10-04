@@ -1,0 +1,8 @@
+.env
+.fatsecret_pending_auth.json
+data/
+dist/
+build/
+*.egg-info/
+__pycache__/
+.venv/
